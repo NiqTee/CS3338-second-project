@@ -1,0 +1,52 @@
+commit 6ea247222491b6476041c4e276aa2c9a3852f303
+Merge: 3c595e2 ee09053
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Jan 31 19:02:54 2025 -0800
+
+    Merge branch 'main' of https://github.com/NiqTee/CS3338-second-project
+
+commit 3c595e2bb9b393637fef5d7441626fb5aed60e4d
+Merge: 49b1e40 001f2e8
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Jan 31 18:59:22 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 001f2e8d0c45ff1343e8ba4637c5d0186dd3e81e
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Jan 31 18:49:43 2025 -0800
+
+    committing favorite game and movie to index-fix
+
+commit 49b1e4027a97d58ca2b85810e98140d53ce54696
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Jan 31 18:47:09 2025 -0800
+
+    committing favorite food to index.html
+
+commit ee0905302f26d44ead4f75503e5acc63fb7c6a20
+Merge: 18bd66c 2296643
+Author: NickTee <98784630+NiqTee@users.noreply.github.com>
+Date:   Fri Jan 31 11:54:03 2025 -0800
+
+    Merge pull request #1 from NiqTee/info-fill
+    
+    Blanks have been filled
+
+commit 22966431570f13bf48748eb23c055ca9456f6f8c
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Jan 31 11:28:02 2025 -0800
+
+    Blanks have been filled
+
+commit 18bd66c2b1dd53476a3ffa4482bb3e662e43b787
+Author: NickTee <nick.trigueros21@gmail.com>
+Date:   Fri Jan 31 10:46:29 2025 -0800
+
+    Committing my read me so I don't have points docked off my grade for this assignment
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
